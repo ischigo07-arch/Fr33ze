@@ -1,3 +1,5 @@
+Paste this code into jsitor.com 
+
 // WARNING: This will likely freeze your current tab/browser 
 // as it consumes massive amounts of RAM.
 
